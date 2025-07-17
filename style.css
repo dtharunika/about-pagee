@@ -51,3 +51,8 @@ header p:hover{
     transition: 0.3s ease;
     cursor: pointer;
 }
+img{
+    border-radius: 50%;
+    width: 150px;
+    object-fit: cover;
+}
